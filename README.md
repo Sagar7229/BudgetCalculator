@@ -1,7 +1,7 @@
 # Budjet calculator
 Developer Name: Sagar Jaiswal 
 
-Github link : 
+Github link :  https://github.com/Sagar7229/BudgetCalculator.git
   
 Project objective: 
 As a developer, write a program using JavaScript to decide the budget of a specific team.Background of the problem statement:
