@@ -1,6 +1,8 @@
 #Budget Calculator
+
 Budget planner using javscript
 Developer Name: Sagar Jaiswal
+
 Project objective:
 As a developer, write a program using JavaScript to decide the budget of a specific
 team.Background of the problem statement:
