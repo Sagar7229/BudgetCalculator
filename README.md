@@ -1,6 +1,7 @@
 #Budget Calculator
 
 Budget planner using javscript
+
 Developer Name: Sagar Jaiswal
 
 Project objective:
@@ -9,6 +10,7 @@ team.Background of the problem statement:
 As a developer, you are assigned to a project. You need to develop a website where program
 managers of a specific team will add details of professional deals they want to have with vendors.
 The finance team will check expenses of those teams and will decide their annual budget.
+
 You must use the following:
  Visual Studio Code
  JavaScript
